@@ -1,5 +1,3 @@
-// Swing, Džeina Bīskapa, 191RBC018, 10.grupa
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
