@@ -14,6 +14,7 @@ A Java Swing application that allows users to add text items to a list, encrypt 
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher.
+- An IDE such as Visual Studio Code, IntelliJ IDEA, or Eclipse.
 
 ### Installation
 
@@ -23,23 +24,7 @@ A Java Swing application that allows users to add text items to a list, encrypt 
     git clone https://github.com/your-username/TextEncryptor-Java.git
     ```
 
-2. Navigate to the project directory:
-
-    ```sh
-    cd TextEncryptor-Java
-    ```
-
-3. Compile the Java files:
-
-    ```sh
-    javac Main.java
-    ```
-
-4. Run the application:
-
-    ```sh
-    java Main
-    ```
+2. Open the project in your preferred Java IDE.
 
 ## How to Use
 
